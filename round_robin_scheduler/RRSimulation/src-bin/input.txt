@@ -1,0 +1,6 @@
+PID: 1,Arrival_Time: 1,CPU_Time: 7
+PID: 2,Arrival_Time: 0,CPU_Time: 5
+PID: 3,Arrival_Time: 2,CPU_Time: 16
+PID: 4,Arrival_Time: 2,CPU_Time: 10
+PID: 5,Arrival_Time: 4,CPU_Time: 6
+PID: 6,Arrival_Time: 5,CPU_Time: 3

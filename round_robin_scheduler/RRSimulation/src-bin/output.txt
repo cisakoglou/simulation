@@ -1,0 +1,2 @@
+Max Length of Ready Queue:5,Average Waiting Time: 22.166666,Average Response Time: 1,Average Turnaround: 30.0
+Max Length of Ready Queue:4,Average Waiting Time: 18.833334,Average Response Time: 18,Average Turnaround: 26.666666
