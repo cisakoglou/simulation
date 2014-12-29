@@ -1,0 +1,19 @@
+RMSE: 2,1648
+Not found values(in the whole training set): 8895
+
+Percentage of items rated with 1: 23,64%
+Percentage of items rated with 2: 11,38%
+Percentage of items rated with 3: 15,59%
+Percentage of items rated with 4: 17,71%
+Percentage of items rated with 5: 31,69%
+
+# unique values for attr 1: 2319
+# unique values for attr 2: 852
+# unique values for attr 3: 18
+
+Mean user: 29 items rated(22 unique values in attr 1 - 17 unique values in attr 2 - 3 unique values in attr 3)
+
+Team A(20-50): 24,05%	 Mean accuracy: 2,075	 Mean time: 0,2451 ms
+Team B(51-100): 8,55%	 Mean accuracy: 1,8994	 Mean time: 0,2611 ms
+Team C(101-300): 4,59%	 Mean accuracy: 1,7947	 Mean time: 1,1278 ms
+Team D(>300): 0,57%	 Mean accuracy: 1,7069	 Mean time: 6,3289 ms
